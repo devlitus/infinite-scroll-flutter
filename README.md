@@ -1,4 +1,4 @@
-# inifity_scroll
+# inifite_scroll
 
 A new Flutter project.
 
